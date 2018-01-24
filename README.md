@@ -6,7 +6,7 @@
 - What is your idea for fan interaction on the way to the stadium?
 - How is the subway, the autobahn or even the subway station itself part of the experience?
 
-**The solution - **
+** The solution - **
 
 - An AI powered 3d animation of FCBayern football legends interacting with users at subways, bus-stops or other public places
 - Real life expressions, natural language communication, real life movements and actions for the 3d player all powered by a contextual AI
@@ -25,7 +25,7 @@
 - Extract answer to a question from a document (IBM Watson directory discivery API)
 
 
-**To Build - **
+** To Build - **
 - Install nodeJS and ReactJS
 - The project builds with Yarn
 - Needs Tracking.js, webGazer.js, OpenCV.js, Artyom.js, IBM Watson Directory discovery API key, Google maps API key
